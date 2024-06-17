@@ -3,5 +3,5 @@
 SonarScanPipeline([
     projectKey: 'electronfc-access-control',
     projectName: 'electronfc-access-control',
-    sourcePath: './'
+    sourcePath: '.'
 ])
